@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"Rumbl"
+			],
+			[
+				"re",
+				"repository"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ofrumin/rumbl/web/templates/user/user.html.eex",
+		"/Users/ofrumin/rumbl/web/web.ex",
+		"/Users/ofrumin/rumbl/web/templates/user/index.html.eex",
+		"/Users/ofrumin/rumbl/web/templates/user/show.html.eex",
+		"/Users/ofrumin/rumbl/web/views/page_view.ex",
+		"/Users/ofrumin/rumbl/web/views/user_view.ex",
+		"/Users/ofrumin/rumbl/web/controllers/user_controller.ex",
+		"/Users/ofrumin/rumbl/web/router.ex",
+		"/Users/ofrumin/rumbl/lib/ecto/queryable.ex",
+		"/Users/ofrumin/rumbl/lib/rumbl.ex",
+		"/Users/ofrumin/rumbl/lib/rumbl/repo.ex",
+		"/Users/ofrumin/rumbl/web/models/user.ex",
+		"/Users/ofrumin/rumbl/web/templates/layout/app.html.eex",
+		"/Users/ofrumin/rumbl/web/views/error_view.ex",
+		"/Users/ofrumin/rumbl/web/templates/page/index.html.eex",
+		"/Users/ofrumin/rumbl/web/views/layout_view.ex",
+		"/Users/ofrumin/hello_phoenix/web/controllers/hello_controller.ex",
+		"/Users/ofrumin/hello_phoenix/web/templates/hello/index.html.eex",
+		"/Users/ofrumin/hello_phoenix/web/views/hello_view.ex",
+		"/Users/ofrumin/hello_phoenix/web/templates/hello/show.html.eex",
+		"/Users/ofrumin/hello_phoenix/web/router.ex",
+		"/Applications/MAMP/htdocs/API/!!! production/redeem_reward_46.php",
+		"/Applications/MAMP/htdocs/API/!!! production/purchase_46-prod.php",
+		"/Applications/MAMP/htdocs/API/!!! 57 account/reward_redeem_57.php",
+		"/Applications/MAMP/htdocs/API/!!! 57 account/purchase_57_stage.php",
+		"/Applications/MAMP/htdocs/API/!!! 57 account/enroll_57.php",
+		"/Users/ofrumin/hello_phoenix/lib/hello_phoenix/endpoint.ex",
+		"/Users/ofrumin/hello_phoenix/config/config.exs",
+		"/Applications/MAMP/htdocs/API/!!! production/enroll_46.php",
+		"/Users/ofrumin/hello_phoenix/web/templates/layout/app.html.eex",
+		"/Users/ofrumin/hello_phoenix/web/templates/page/index.html.eex",
+		"/Users/ofrumin/Documents/Code/Elixir_Projects/hello_phoenix/web/router.ex",
+		"/Applications/MAMP/htdocs/API/create_dupl_identities_415_3.php",
+		"/Applications/MAMP/htdocs/API/!!! 415 account/customer_show_with_rewards_415.php",
+		"/Applications/MAMP/htdocs/API/!!! 415 account/show_iden_415.php",
+		"/Applications/MAMP/htdocs/API/DIFFERENT/enroll_239_stage.php",
+		"/Applications/MAMP/htdocs/API/!!! 415 account/purchase_415.php",
+		"/Applications/MAMP/htdocs/API/!!! 415 account/enroll_415_stage.php",
+		"/Applications/MAMP/htdocs/API/DIFFERENT/points_show_239.php",
+		"/Applications/MAMP/htdocs/API/DIFFERENT/point_show _short_239.php",
+		"/Applications/MAMP/htdocs/API/DIFFERENT/enroll_new_user_57.php",
+		"/Applications/MAMP/htdocs/API/!!! 234 account/enroll_234_prod.php",
+		"/Applications/MAMP/htdocs/API/!!! 426 account/show_iden_426.php",
+		"/Applications/MAMP/htdocs/API/!!! 426 account/create_dupl_iden.php",
+		"/Applications/MAMP/htdocs/API/!!! 426 account/create_identities.php",
+		"/Applications/MAMP/htdocs/API/DIFFERENT/purchase_397.php",
+		"/Applications/MAMP/htdocs/API/!!! 415 account/create_dupl_identities_415_3.php",
+		"/Applications/MAMP/htdocs/API/!!! 426 account/create_iden_with missing_vendor.php",
+		"/Users/ofrumin/Documents/API/!!! 415 account/show_iden_415.php",
+		"/Users/ofrumin/Documents/API/!!! 415 account/Update_events_include_event_attributes.php",
+		"/Applications/MAMP/htdocs/API/!!! 415 account/create_identities_415_3.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 45.0
+	},
+	"pinned_build_system": "",
+	"project": "rumbl.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

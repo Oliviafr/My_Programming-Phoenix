@@ -1,0 +1,17 @@
+<h1>Listing Users</h1>
+<table class="table">
+	<div class="back">
+		<p><%= link "Back", to: page_path(@conn, :index) %></p>
+	</div>
+	<div class="new_user">
+		<p><%= link "New User", to: user_path(@conn, :new) %></p>
+	</div>
+	<%= for user <- @users do %> 
+		<tr>
+ 			<td><b><%= first_name(user) %> 
+	</b> (<%= user.id %>)</td>
+			<td><%= link "View", to: user_path(@conn, :show, user.id) %></td>
+		</tr>
+	<% end %>
+</table>
+
